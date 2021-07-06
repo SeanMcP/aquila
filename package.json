@@ -1,0 +1,23 @@
+{
+  "name": "aquila",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanMcP/aquila.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanMcP/aquila/issues"
+  },
+  "homepage": "https://github.com/SeanMcP/aquila#readme",
+  "devDependencies": {
+    "svelte": "^3.38.3"
+  }
+}
